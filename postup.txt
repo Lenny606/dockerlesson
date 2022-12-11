@@ -1,0 +1,7 @@
+1. docker build .
+2. vygeneruje se index image
+3. docker run -p {3000:3000} {index} // spoustí na local portu 3000
+
+
+docker ls //list containeru, obsahuje {name} containeru
+docker stop {name}
