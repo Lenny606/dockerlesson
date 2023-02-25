@@ -4,4 +4,6 @@
 
 
 docker ls //list containeru, obsahuje {name} containeru
+docker ps -a // sezname procesu vsech
 docker stop {name}
+
